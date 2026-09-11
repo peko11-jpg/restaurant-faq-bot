@@ -1,0 +1,4 @@
+scikit-learn
+discord.py
+python-dotenv
+pytest
