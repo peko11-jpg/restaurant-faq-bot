@@ -9,5 +9,25 @@
     "imate li ribu",
     "ima li ribljih jela na meniju",
     "sta imate od morskih plodova"
-  ]
+  ],
+  "cijena": [
+    "koliko kosta",
+    "koja je cijena",
+    "koliko je to"
+  ],
+    "lokacija": [
+        "gdje se nalazite",
+        "koja je adresa",
+        "gdje ste smjesteni"
+    ],
+    "rezervacija": [
+        "da li mogu rezervisati sto",
+        "zelim da rezervisem sto",
+        "zelim da rezervisem sto za 4 osobe"
+    ],
+    "dostava": [
+        "da li vrsite dostavu",
+        "da li dostavljate",
+        "da li mogu naruciti dostavu"
+    ]
 }
